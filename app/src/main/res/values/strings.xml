@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">turnos policía</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="terminos">Terminos y condiciones</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="acerca">Desarrollador</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
